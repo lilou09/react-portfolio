@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.bfdaf747.css",
+    "main.js": "/react-portfolio/static/js/main.472869dd.js",
+    "static/media/Untitled design (1).png": "/react-portfolio/static/media/Untitled design (1).6e64af3aec37893dca8a.png",
+    "static/media/alessandro-erbetta-8oYPewvmhnY-unsplash.jpg": "/react-portfolio/static/media/alessandro-erbetta-8oYPewvmhnY-unsplash.c11f7b6fba2593602668.jpg",
+    "static/media/shahin-khalaji-Q4C5coZA1yQ-unsplash.jpg": "/react-portfolio/static/media/shahin-khalaji-Q4C5coZA1yQ-unsplash.4abafb7ab60bc16ec7f0.jpg",
+    "static/media/5134-8002-1-SM.pdf": "/react-portfolio/static/media/5134-8002-1-SM.2bfee673527804894d03.pdf",
+    "static/media/UX Design - Figma vs Adobe XD.jpg": "/react-portfolio/static/media/UX Design - Figma vs Adobe XD.df9d8c62bd01d59e5eb3.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.bfdaf747.css.map": "/react-portfolio/static/css/main.bfdaf747.css.map",
+    "main.472869dd.js.map": "/react-portfolio/static/js/main.472869dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfdaf747.css",
+    "static/js/main.472869dd.js"
+  ]
+}
